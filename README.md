@@ -5,8 +5,11 @@ The Detecting Moving Objects Project is a computer vision system that uses image
 
 Installation:
 To install the project, follow these steps:
+
 1)Clone the repository to your local machine.
+
 2)Install the required dependencies, including OpenCV, Python, and TensorFlow.
+
 3)Run the main.py file to start the object detection and tracking system.
 
 Usage:
